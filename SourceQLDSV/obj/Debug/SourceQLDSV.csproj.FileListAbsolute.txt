@@ -1,0 +1,10 @@
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\bin\Debug\SourceQLDSV.exe.config
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\bin\Debug\SourceQLDSV.exe
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\bin\Debug\SourceQLDSV.pdb
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLDSV.csprojResolveAssemblyReference.cache
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLSV.Form1.resources
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLDSV.GUI.frmMain.resources
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLDSV.Properties.Resources.resources
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLDSV.csproj.GenerateResource.Cache
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLDSV.exe
+E:\grammar\visual 2013\SourceQLSV\SourceQLDSV\obj\Debug\SourceQLDSV.pdb
